@@ -6,4 +6,4 @@ for fiche in membres/*.sh; do
 bash "$fiche"
 echo "---"
 done
-echo "Fin"
+echo "Fin de la liste"
