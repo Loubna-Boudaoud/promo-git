@@ -5,3 +5,6 @@ Pour présenter toute l'équipe : bash promo.sh
 - Loubna, cheffe de projet
 - Jonathan
 
+- Richard
+- Rigobert
+- Jonathan
