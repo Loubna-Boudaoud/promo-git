@@ -6,3 +6,4 @@ Pour présenter toute l'équipe : bash promo.sh
 - Richard
 - Rigobert
 - Jonathan
+<<<<<<<
